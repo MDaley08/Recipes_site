@@ -1,3 +1,1 @@
-
-
-Hello Odin!
+This is a simple website which will house multiple recipes made only with html that has links to seperate web pages which has imformation on a specific recipe.
