@@ -1,16 +1,18 @@
-*{
-    outline-width: 2px;
-    outline: red;
-    /* outline-style: solid; */
-}
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #eee5d1;
-
 }
-img {
-    display: block;
-    height: 600px;
-    width: auto;
+
+.header,
+.content {
+    color: #000000c5;
+    width: 600px;
+    height: auto;
+    font-size: 18px;
+    box-sizing: border-box;
     margin: 0 auto;
+}
+.recipe-img {
+    width: 600px;
+    height: auto;
 }
